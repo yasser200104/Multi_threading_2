@@ -10,7 +10,7 @@ def add_item():
         time.sleep(2)
         print('added item 1')
         total += 1
-    print('Creation 1 is done')
+    print('Creation 3 is done')
 
 
 def add_item_2():
