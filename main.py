@@ -16,7 +16,7 @@ def add_item():
 def add_item_2():
     global total
     for i in range(7):
-        time.sleep(1)
+        time.sleep(2)
         print('added item 2')
         total += 1
     print('creation 2 is done')
