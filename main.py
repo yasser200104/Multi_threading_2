@@ -26,7 +26,7 @@ def add_item_2():
 def limits_items():
     global total
     while True:
-        if total > 5:
+        if total > 15:
             print('overload')
             total -= 3
             print('substracted 3')
